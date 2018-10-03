@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Curriculum Vitae - Justin Gallagher - Montana State University
+resume: pdfs/justin-gallagher-curriculum-vitae-20180723.pdf
 ---
 
 <div class="section" id="mainContainer">
 
 	<div class="row">
 		<div class="col-md-8 col-lg-9 col-sm-12 col-xs-12" editable="true" id="MainColumn">
-			<object data="pdfs/justin-gallagher-curriculum-vitae-20180723.pdf" type="application/pdf" width="100%" height="100%" style="min-height:600px;">
-				<embed src="pdfs/justin-gallagher-curriculum-vitae-20180723.pdf" width="100%" height="100%"></embed>
+			<object data="{{ page.resume }}" type="application/pdf" width="100%" height="100%" style="min-height:600px;">
+				<embed src="{{ page.resume }}" width="100%" height="100%"></embed>
 				<p>It appears you don't have a PDF plugin for this browser.
-				You can <a href="pdfs/justin-gallagher-curriculum-vitae-20180723.pdf">click here to
-				download the PDF file.</a></p>
+				You can <a href="{{ page.resume }}">click here to download the PDF file.</a></p>
 			</object>
 		</div>
 		<div class="col-md-4 col-lg-3 hidden-sm hidden-xs" editable="true" id="RightColumn">
-			<img class="img-responsive" alt="Dolomites - Northern Italy" src="images/italy.jpg">
+			<img class="img-responsive" alt="Dolomites - Northern Italy" src="images/Italy.jpg">
 		</div>  
 	</div>
 </div>

@@ -25,16 +25,7 @@ In [a recent working paper](pdfs/school_lunch_20170808.pdf), co-authors and I te
 <div class="col-md-4 col-lg-3" editable="true" id="RightColumn" markdown="1">
 <img class="img-responsive" alt="Justin Gallagher" src="images/justin-gallagher.jpg">
 
-<div markdown="1">
-Contact Justin:
-
-[justin.p.gallagher@case.edu](mailto:justin.p.gallagher@case.edu)
-
-216.368.8845
-
-[Curriculum Vitae](curriculum-vitae.html)
-
-</div>
+{% include contact.md %}
 
 </div>
 </div>
