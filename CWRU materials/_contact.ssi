@@ -1,0 +1,8 @@
+				<h5>Contact Justin:</h5>
+				<ul class="fa-ul">
+					<li><a href="mailto:justin.p.gallagher@case.edu" target="_blank"><i class="fa fa-li fa-envelope"></i> justin.p.gallagher@case.edu</a></li>
+					<li><a href="tel:+12163688845" target="_blank"><i class="fa fa-li fa-phone-square"></i> 216.368.8845</a></li>
+					<li><a href="http://weatherhead.case.edu/tour/" target="_blank">
+						<i class="fa fa-li fa-building"></i> Peter B. Lewis Building 276</a></li>
+					<li><a href="curriculum-vitae.html" target="_blank"><i class="fa fa-li fa-graduation-cap"></i> Curriculum Vitae</a></li>
+				</ul>
