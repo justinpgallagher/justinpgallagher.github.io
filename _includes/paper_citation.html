@@ -1,0 +1,41 @@
+{% assign paper = include.paper %}
+
+<li><a href="{{ paper.pdf }}" class="paperTitle">{{ paper.title }}</a>. {{ paper.subtitle }}
+    <em><strong>{{ paper.published.title }}</strong></em> {{ paper.published.date }}.
+    <ul>
+        {% for download in paper.downloads %}
+            <li><a href="{{ download.link }}" target="_blank">{{ download.name }}</a> {{ download.comment }}</li>
+        {% endfor %}
+        {% if paper.media %}
+            <li>Media Coverage:
+                {% for media in paper.media %}
+                    <a href="{{ media.link }}" target="_blank"><em>{{ media.name }}</em></a>
+                        {%- if media.republished %}
+                            (republished by
+                            {% for pub in media.republished %}
+                                <a href="{{ pub.link }}" target="_blank"><em>{{ pub.name }}</em></a>
+                                {%- assign second_to_last_index = forloop.length | minus: 1 -%}
+                                {%- if forloop.last -%}
+                                {%- elsif forloop.index == second_to_last_index -%}
+                                    , and
+                                {%- else -%}
+                                    ,
+                                {%- endif -%}
+                            {%- endfor -%}
+                            )
+                        {%- endif -%}
+
+                        {%- assign second_to_last_index = forloop.length | minus: 1 -%}
+                        {%- if forloop.last -%}
+                            .
+                        {%- elsif forloop.index == second_to_last_index -%}
+                            , and
+                        {%- else -%}
+                            ,
+                        {%- endif -%}
+                {% endfor %}
+            </li>
+        {% endif %}
+
+    </ul>
+</li>
