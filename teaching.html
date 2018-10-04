@@ -6,7 +6,7 @@ title: Teaching - Justin Gallagher - Montana State University
 <div class="section" id="mainContainer">
   <div class="row">
 
-  {% for course in site.data.teaching %}
+  {% for course in site.teaching_current %}
   <div class="col-md-4" editable="true" id="LeftColumn">
     <div class="well" markdown="1">
 
@@ -22,7 +22,7 @@ title: Teaching - Justin Gallagher - Montana State University
       </small>
       </p>
 
-      <p>{{ course.description }}</p>
+      <p>{{ course.content | markdownify }}</p>
 
     </div>
   </div>

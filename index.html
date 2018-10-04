@@ -1,0 +1,24 @@
+---
+layout: default
+title: Justin Gallagher - Montana State University
+---
+<div class="section" id="mainContainer">
+
+    <div class="row">
+        <div class="col-md-8 col-lg-9" editable="true" id="MainColumn" markdown="1">
+
+        {% capture home %}{% include home.md %}{% endcapture %}
+        {{ home | markdownify }}
+
+        </div>
+
+        <div class="col-md-4 col-lg-3" editable="true" id="RightColumn" markdown="1">
+        <img class="img-responsive" alt="Justin Gallagher" src="images/justin-gallagher.jpg">
+
+        {% capture contact %}{% include contact.md  %}{% endcapture %}
+        {{ contact | markdownify }}
+
+        </div>
+    </div>
+
+</div>
