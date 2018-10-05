@@ -16,13 +16,17 @@ It looks like [this](#markdown-intro).
 You can edit markdown files in the github UI. Once you save & commit your changes, the website
 should update automatically within a couple minutes. (If it doesn't, see [troubleshooting](#troubleshooting).)
 
-### Research
+### Home page
 
-The research page is just a single markdown file: [research.md](https://github.com/justinpgallagher/justinpgallagher.github.io/blob/master/_includes/research.md).
+The home page is just a single markdown file: [home.md](https://github.com/justinpgallagher/justinpgallagher.github.io/blob/master/_includes/home.md).
 
 To update it, go to the file in github, click the pencil icon in the top-right to edit, and type in the editor.
 
 You can preview your changes by toggling the "Preview changes" tab.
+
+### Research
+
+The research page is also a single markdown file: [research.md](https://github.com/justinpgallagher/justinpgallagher.github.io/blob/master/_includes/research.md).
 
 ### Teaching
 
@@ -46,7 +50,7 @@ To remove a course, you can just delete the file or move it to a different direc
 ### Contact info
 
 The contact section is defined in [contact.md](https://github.com/justinpgallagher/justinpgallagher.github.io/blob/master/_includes/contact.md), 
-similar to the research page.
+similar to the home & research pages.
 
 
 ## Troubleshooting
