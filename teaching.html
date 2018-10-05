@@ -6,28 +6,9 @@ title: Teaching - Justin Gallagher - Montana State University
 <div class="section" id="mainContainer">
   <div class="row">
 
-  {% for course in site.teaching_current %}
-  <div class="col-md-4" editable="true" id="LeftColumn">
-    <div class="well" markdown="1">
-
-      <h3><a href="{{ course.link }}">{{ course.name }}</a></h3>
-
-      <p>
-       <small>
-        <a href="{{ course.syllabus }}">View Course Syllabus</a>
-
-        {% if course.youtube %}
-          | <a href="{{ course.youtube }}" target="_blank"><i class="fa fa-youtube-play" style="color:#cd201f;"></i> Watch Course Teaser</a>
-        {% endif %}
-      </small>
-      </p>
-
-      <p>{{ course.content | markdownify }}</p>
-
-    </div>
-  </div>
-  {% endfor %}
-
+      <div style="height:300px; display: flex; align-items: center; justify-content: center;">
+          <em>Coming soon</em>
+      </div>
   </div>
 
   <img class="img-responsive" alt="Argentiere Summit - Chamonix Valley, France" src="images/argentiere_top_view.jpg" />
