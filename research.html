@@ -5,41 +5,8 @@ title: Research - Justin Gallagher - Montana State University
 <div class="section researchContainer" id="mainContainer">
 	<div class="row">
 		<div class="col-md-8 col-lg-9 col-sm-12 col-xs-12" editable="true" id="MainColumn">
-			<h3>Publications</h3>
-
-			<ul class="list-pubs">
-
-                {% for paper in site.data.research.publications %}
-                    {% include paper_citation.html paper=paper %}
-                {% endfor %}
-			</ul>
-
-			<h3>Working Papers</h3>
-			<ul class="list-pubs">
-                {% for paper in site.data.research.working_papers %}
-                    {% include paper_citation.html paper=paper %}
-                {% endfor %}
-			</ul>
-
-			<h3>Research in Progress</h3>
-			<ul class="list-pubs">
-                {% for paper in site.data.research.in_progress %}
-                    <li>{{ paper.title }}
-                    {%- if paper.support -%}
-                        <ul>
-                            <li>Supported by <a href="{{ paper.support.link }}" target="_blank">{{ paper.support.name }}</a></li>
-                        </ul>
-                    {%- endif -%}
-                    </li>
-                {% endfor %}
-			</ul>
-
-			<h3>Additional Research Media Coverage</h3>
-			<ul>
-                {% for media in site.data.research.media %}
-                    <li>{{ media.name }}</li>
-                {% endfor %}
-			</ul>
+			{% capture research %}{% include research.md %}{% endcapture %}
+            {{ research | markdownify }}
 
 		</div> 
 		<div class="col-md-4 col-lg-3 hidden-sm hidden-xs" editable="true" id="RightColumn">

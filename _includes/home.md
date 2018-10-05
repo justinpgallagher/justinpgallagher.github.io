@@ -1,15 +1,8 @@
----
-layout: default
-title: Justin Gallagher - Montana State University
----
-<div class="section" id="mainContainer">
-
-<div class="row">
-<div class="col-md-8 col-lg-9" editable="true" id="MainColumn" markdown="1">
-
 ## Justin Gallagher
-### Assistant Professor, Economics
-#### Montana State University
+
+### Assistant Professor, [Department of Agricultural Economics & Economics](http://www.montana.edu/econ/)
+
+#### [Montana State University](http://www.montana.edu/)
 
 My Primary research field is environmental economics, with a broad interest in household finance, labor economics, and public economics.  The central theme of my research is investigating how individuals evaluate and respond to environmental risks.
 
@@ -19,15 +12,3 @@ In [a recent working paper](pdfs/school_lunch_20170808.pdf), co-authors and I te
 
 > _Improving the nutritional content of public school meals is a topic of intense policy interest. A main motivation is the health of school children, and, in particular, the rising childhood obesity rate. Medical and nutrition literature has long argued that a healthy diet can have a second important impact: improved cognitive function. In this paper, we test whether offering healthier lunches affects student achievement as measured by test scores. Our sample includes all California (CA) public schools over a five-year period. We estimate difference-in-difference style regressions using variation that takes advantage of frequent lunch vendor contract turnover. Students at schools that contract with a healthy school lunch vendor score higher on CA state achievement tests, with larger test score increases for students who are eligible for reduced price or free school lunches. We do not find any evidence that healthier school lunches lead to a decrease in obesity rates._
 {: style="font-style: italic; font-size: 1em;"}
-
-</div>
-
-<div class="col-md-4 col-lg-3" editable="true" id="RightColumn" markdown="1">
-<img class="img-responsive" alt="Justin Gallagher" src="images/justin-gallagher.jpg">
-
-{% include contact.md %}
-
-</div>
-</div>
-
-</div>
