@@ -5,10 +5,7 @@
 
 ##### Contact Justin:
 
-<ul class="fa-ul">
-    <li><a href="mailto:{{email}}" target="_blank"><i class="fa fa-li fa-envelope"></i> {{ email }} </a></li>
-    <li><a href="tel:+12163688845" target="_blank"><i class="fa fa-li fa-phone-square"></i> {{ phone }}</a></li>
-    <li><a href="{{ office_link }}" target="_blank">
-        <i class="fa fa-li fa-building"></i> {{ office }}</a></li>
-    <li><a href="../curriculum-vitae.html" target="_blank"><i class="fa fa-li fa-graduation-cap"></i> Curriculum Vitae</a></li>
-</ul>
+- <i class="fa fa-envelope"></i> [{{ email }}](mailto:{{email}})
+- <i class="fa fa-phone-square"></i> [{{ phone }}](tel:+12163688845)
+- <i class="fa fa-building"></i> [{{ office }}]({{ office_link }})
+- <i class="fa fa-graduation-cap"></i> [Curriculum Vitae](../curriculum-vitae.html)

@@ -1,61 +1,82 @@
 # mariaines.github.io
 
+- [How to update site data](#how-to-update-site-data)
+  - [Research](#research)
+  - [Teaching](#teaching)
+
 ## How to update site data
 
-Data for the research and teaching pages are defined in `_data/<page>.yml`. [YAML](https://learnxinyminutes.com/docs/yaml/) is a
-human-friendly data serialization format. It looks like this:
+Most of the site content is defined in markdown files (`*.md`). [Markdown](https://www.markdownguide.org/getting-started)
+is a lightweight markup language with pretty simple syntax, that then gets generated into html.
 
-```yaml
-- key: value
-  another_key: "Another value"
-- key: value for the 2nd item
-  nested_key:
-    - item: blah
-    - item: blah 2
+It looks like this:
+```
+# This is a title
+
+## This is a subtitle
+
+Here is a paragraph. **Here is some bold text.** _Underlined text._
+
+[Here is a link](http://www.google.com)
+
+- Here is a list
+  - With a nested list
+  - We can also have ordered lists
+    1. One
+    2. Two
+    3. Three
+```
+which gets generated to display this:
+
+---
+#### This is a title
+
+##### This is a subtitle
+
+Here is a paragraph. **Here is some bold text.** _Underlined text._
+
+[Here is a link](www.google.com)
+
+- Here is a list
+  - With a nested list
+  - We can also have ordered lists
+    1. One
+    2. Two
+    3. Three
+---
+
+
+### Research
+
+The research page is just a single markdown file: [research.md](https://github.com/mariaines/mariaines.github.io/blob/master/_includes/research.md).
+
+To update it, go to the file in github, click the pencil icon in the top-right to edit, and type in the editor.
+
+You can preview your changes by toggling the "Preview changes" tab.
+
+### Teaching
+
+The teaching page is generated from a collection of markdown files defined under [/_teaching_current](https://github.com/mariaines/mariaines.github.io/blob/master/_teaching_current).
+
+These markdown files include a special section at the top that defines some key-value pairs, which are used by the [teaching.html](https://github.com/mariaines/mariaines.github.io/blob/master/teaching.html) page. They look like this:
+```
+---
+name: "ECON 326: Econometrics"
+link: http://weatherhead.case.edu/academics/courses/ECON326
+syllabus: pdfs/ECON326-syllabus-spring-2017.pdf
+---
+Econometrics is...
 ```
 
-For example, `_data/teaching.yml` contains 3 top-level items, each with a number of
-key/value pairs:
+To add a new course, go to the `_teaching` directory and click "Create new file" to create a new file with the same structure. Make sure to give it a name that ends in `.md`.
 
-```yaml
-- name: "ECON 368: Environmental Economics"
-  link: http://weatherhead.case.edu/academics/courses/ECON368
-  syllabus: pdfs/ECON368-syllabus-fall-2016.pdf
-  youtube: https://www.youtube.com/watch?v=Vyeqg4RxYPI
-  description: "Economic models and reasoning provide a valuable lens through which to view many of the most intractable and perplexing environmental problems. The objective of this class is to apply the tools of a typical introductory or intermediate microeconomics course to topics involving the natural environment. That is, we will view environmental topics from the perspective of an economist. Topics that will be covered in this class include: Market failure in the case of externalities and public goods provision, Management of renewable resources, Cost-effective pollution control, and Energy use and global climate change. We will take the tools from the classroom and apply them to the most pressing environmental problems including: Air and water pollution, Endangered species, Valuation of the natural environment, Fossil fuel use, and Business sustainability."
+To remove a course, you can just delete the file or move it to a different directory, like `/_archived_teaching`. If you want, we could add a page that includes archived courses.
 
-- name: "ECON 326: Econometrics"
-  link: http://weatherhead.case.edu/academics/courses/ECON326
-  syllabus: pdfs/ECON326-syllabus-spring-2017.pdf
-  description: "Econometrics is the application of statistics to empirical economic analysis. One way of testing the validity of economic theories is to gather data and apply statistical tests to see if the data support the theory. These data are usually gathered by observing actual economies, firms and consumers, rather than by performing experiments in a laboratory. Because economic analysts lack the precision and control of the laboratory, they must compensate by adjusting their statistical procedures. In this class, we will concentrate on regression analysis, which is the basic tool of the economic researcher. We will study the assumptions commonly made in the application of this technique, the consequences of violating these assumptions, and the corrections that can be made. Students will have a chance to formulate and test their own hypotheses using econometric software available for personal computers."
 
-- name: "ECON 327: Advanced Econometrics"
-  link: http://weatherhead.case.edu/academics/courses/ECON327
-  syllabus: pdfs/ECON327-syllabus-spring-2016.pdf
-  youtube: https://www.youtube.com/watch?v=jDF4-ZSY1k4
-  description: "This class builds on the foundations of applied regression analysis developed in ECON 326. The goal of the class is to equip students with the tools to conduct a causal analysis of a hypothesis in a variety of settings. Topics will include causality, panel and time series data, instrumental variables and quasi-experiments, semi- and non-parametric methods, and treatment evaluation."
-```
+### Contact info
 
-This data is referenced in the html pages like this:
-```html
-{% for course in site.data.teaching %}
-  <li>{{ course.name }}</li>
-{% endfor %}
-```
 
-So, to add or edit a course, just update the yaml file. A couple things to note:
-- Indentation is important, and is used to represent relationships between data layers
-- Colons are important. If you want a colon in a value, enclose the whole value in quotes:
-  ```yaml
-  key: "My value: with a colon"
-  ```
-- You can nest fields
-- Lists are created by using dashes. Items are part of the same list if they are at the same indentation level.
-- You can use (simple) html in yaml fields. This is useful for including links or styling, e.g. in a course description:
-  ```yaml
-  description: "Go to <a href='...'>this link</a>"
-  ```
 
 ## Troubleshooting
 
-Hopefully you won't run into problems if you're just editing the yaml data files. If you want to change something significant,
+https://help.github.com/articles/troubleshooting-github-pages-builds/

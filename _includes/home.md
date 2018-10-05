@@ -1,8 +1,8 @@
 ## Justin Gallagher
 
-### Assistant Professor, Economics
+### Assistant Professor, [Department of Agricultural Economics & Economics](http://www.montana.edu/econ/)
 
-#### Montana State University
+#### [Montana State University](http://www.montana.edu/)
 
 My Primary research field is environmental economics, with a broad interest in household finance, labor economics, and public economics.  The central theme of my research is investigating how individuals evaluate and respond to environmental risks.
 
