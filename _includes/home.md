@@ -14,7 +14,13 @@ investment decisions. The work is supported by the National Science Foundation t
 
 In [a recent paper](pdfs/school_lunch_20170808.pdf), co-authors and I test whether there is
 a relationship between offering healthier school lunches at public schools and student academic
-achievement. Read media coverage from <a href="https://www.theatlantic.com/education/archive/2017/03/do-healthy-lunches-improve-student-test-scores/520272/" target="_blank"><em>The Atlantic</em></a>, <em><a href="https://www.brookings.edu/blog/brown-center-chalkboard/2017/05/03/how-the-quality-of-school-lunch-affects-students-academic-performance/" target="_blank">The Brookings Institution</a></em>, <em><a href="http://blogs.wgbh.org/innovation-hub/2017/6/9/gallagher-lunches/" target="_blank">Innovation Hub (NPR)</a></em>, <em><a href="http://www.nber.org/digest/jun17/jun17.pdf" target="_blank">The NBER Digest</a></em> and <a href="https://www.nytimes.com/2017/06/05/well/feeding-young-minds-the-importance-of-school-lunches.html" target="_blank"><em>The New York Times</em></a>. Here is the abstract:
+achievement. Read media coverage from
+<a href="https://www.theatlantic.com/education/archive/2017/03/do-healthy-lunches-improve-student-test-scores/520272/" target="_blank"><em>The Atlantic</em></a>,
+<em><a href="https://www.brookings.edu/blog/brown-center-chalkboard/2017/05/03/how-the-quality-of-school-lunch-affects-students-academic-performance/" target="_blank">The Brookings Institution</a></em>,
+<em><a href="http://blogs.wgbh.org/innovation-hub/2017/6/9/gallagher-lunches/" target="_blank">Innovation Hub (NPR)</a></em>,
+<em><a href="http://www.nber.org/digest/jun17/jun17.pdf" target="_blank">The NBER Digest</a></em>
+and <a href="https://www.nytimes.com/2017/06/05/well/feeding-young-minds-the-importance-of-school-lunches.html" target="_blank"><em>The New York Times</em></a>.
+Here is the abstract:
 
 > _Improving the nutritional content of public school meals is a topic of intense policy interest.
 A main motivation is the health of school children, and, in particular, the rising childhood

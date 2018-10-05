@@ -1,17 +1,11 @@
 <div class="footer container">
 
-    <div class="col-xs-12 col-sm-6">
-        <img class="logo" src="../images/cwru-formal-blue-tag.png" alt="Case Western Reserve Logo">
-    </div>
-    <div class="copyLegal col-xs-12 col-sm-6">
-        <address>
-        <p>&copy;&nbsp;2014&nbsp;Case&nbsp;Western&nbsp;Reserve&nbsp;University,
-10900&nbsp;Euclid&nbsp;Ave.,&nbsp;Cleveland,&nbsp;Ohio&nbsp;44106
-216.368.2000&nbsp;(<a href="http://www.case.edu/legal.html" title="Legal notice">legal&nbsp;notice</a>)</p>
-        </address>
+    <div class="page__footer-copyright" style="font-size: 12px;">
+        &copy; {{ site.time | date: '%Y' }} Justin Gallagher.
+        {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }}
+        <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> on <a href="https://pages.github.com/" rel="nofollow">Github Pages</a>.
     </div>
 
-    <a title="Go to top" href="#top" id="back-top"><i class="fa fa-caret-up">&#8203;</i></a>
   
 </div>
 
