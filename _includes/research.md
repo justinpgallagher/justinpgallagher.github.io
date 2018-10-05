@@ -28,11 +28,8 @@
             [Seattle Post-Intelligencer](http://www.seattlepi.com/news/article/What-victims-of-Hurricane-Harvey-can-learn-from-12172464.php)), and
     [LSE American Politics and Policy Blog](http://blogs.lse.ac.uk/usappblog/2017/09/07/insurance-and-government-assistance-means-that-homeowners-often-have-less-debt-following-a-flood-disaster/)
 
-
-### Working Papers
-
 - {:.pub_li} [School Lunch Quality and Academic Performance](pdfs/school_lunch_20180719.pdf)
-  (with Michael L. Anderson and Elizabeth Ramirez Ritchie), _Revisions Requested **Journal of Public Economics**_
+  (with Michael L. Anderson and Elizabeth Ramirez Ritchie), _Forthcoming **Journal of Public Economics**_
   - [NBER Working Paper #23218](http://www.nber.org/papers/w23218) (earlier version of paper)
   - [Lunch Vendor Nutritional Assessment Report](pdfs/Nutrition-Policy-Institute-July-2016.pdf)
   - Media Coverage:
@@ -41,6 +38,9 @@
     [Innovation Hub (NPR)](http://blogs.wgbh.org/innovation-hub/2017/6/9/gallagher-lunches/),
     [The NBER Digest](http://www.nber.org/digest/jun17/jun17.pdf), and
     [The New York Times](https://www.nytimes.com/2017/06/05/well/feeding-young-minds-the-importance-of-school-lunches.html)
+
+
+### Working Papers
 
 - {:.pub_li} [Criminal Deterrence when there are Offsetting Risks: Traffic Cameras, Vehicular Accidents, and Public Safety](pdfs/Gallagher-and-Fisher.pdf)
   (with Paul J. Fisher), _Revisions Requested **American Economic Journal: Economic Policy**_
