@@ -12,7 +12,7 @@ Work in progress includes a project that examines how infrastructure externaliti
 investment decisions. The work is supported by the National Science Foundation through
 [NSF grant 1638320](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1638320&amp;HistoricalAwards=false).
 
-In [a recent paper](pdfs/school_lunch_20170808.pdf), co-authors and I test whether there is
+In [a recent paper](pdfs/school_lunch_20180921.pdf), co-authors and I test whether there is
 a relationship between offering healthier school lunches at public schools and student academic
 achievement. Read media coverage from
 <a href="https://www.theatlantic.com/education/archive/2017/03/do-healthy-lunches-improve-student-test-scores/520272/" target="_blank"><em>The Atlantic</em></a>,
