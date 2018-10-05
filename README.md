@@ -54,7 +54,10 @@ similar to the research page.
 Hopefully you shouldn't have any issues if you're just updating markdown pages.
 
 If you do ever notice that you're not seeing updates on the site, you can check to see if there
-are build errors in the repo Settings. More info here: https://help.github.com/articles/troubleshooting-github-pages-builds/
+are build errors in the repo Settings under Github Pages. 
+More info here: https://help.github.com/articles/viewing-jekyll-build-error-messages/#viewing-jekyll-build-failure-messages-in-your-repository
+
+
 
 And of course you can always ask @mariaines for help.
 
