@@ -48,22 +48,34 @@
   - [Public Information Act Documentation](research_files/Public-Information-Act-Letters.zip)
   - [Complete Texas Crash Records Information System (CRIS) vehicle accident data 2003-2009](research_files/2003-2009-texas-cris-accident-data.zip)
   - Media Coverage:
-    [Berkeley Initiative for Transparency in the Social Sciences](http://www.bitss.org/2017/09/11/public-data-that-isnt-or-wasnt-public/)
+    [Berkeley Initiative for Transparency in the Social Sciences](http://www.bitss.org/2017/09/11/public-data-that-isnt-or-wasnt-public/), 
+    [The Conversation](https://theconversation.com/cameras-can-catch-cars-that-run-red-lights-but-that-doesnt-make-streets-safer-100217) 
+    (republished by 
+      [Houston Chronicle](https://www.houstonchronicle.com/local/gray-matters/article/red-light-cameras-crashes-houston-safety-13158207.php),
+      [Philly Voice](https://www.phillyvoice.com/red-light-cameras-do-not-make-streets-safer-study/),
+      [Scientific American](https://www.scientificamerican.com/article/red-light-cameras-may-not-make-streets-safer/)),
+    [Sound of Ideas (NPR, WCPN)](http://www.ideastream.org/programs/sound-of-ideas/cleveland-begins-fines-for-violation-of-trash-and-recycling-rules-red-light-camera-study),
+    [Stateline (Pew Charitable Trusts)](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2018/09/28/taking-a-uturn-on-redlight-speed-cameras).
+
+- {:.pub_li} Weathering an Unexpected Financial Shock: The Role of Cash Grants on Household Finance and Business Growth following a Natural Disaster (with Daniel Hartley and Shawn Rohlin)
 
 
 ### Research in Progress
 
-- {:.pub_li} The Effect of Federal Assistance on Household Finance and Business Survival after a Natural Disaster (with Daniel Hartley and Shawn Rohlin)
-
 - {:.pub_li} Public Investment and Infrastructure Externalities: Evidence from Municipal Water Provision (with Francisca Richter)
   - Supported by [NSF grant 1638320](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1638320&amp;HistoricalAwards=false)
 
-- {:.pub_li} Local Lending Institutions, Financial Recovery, and Regional Economic Redevelopment after a Natural Disaster
+- {:.pub_li} Local Banking Institutions and Post-Disaster Recovery (with Daniel Hartley)
 
+- {:.pub_li} Natural Disasters and an Attentive Electorate: Do Voters Actually Separate a Politician's Response to a Disaster from the Impact of the Random Event?
 
 ### Additional Research Media Coverage
 
-- Invited Guest on [_Radio Times_ (WHYY, NPR)](http://whyy.org/cms/radiotimes/2017/09/13/school-lunch-teens-sleep/)
-- Interview by [Cleveland's NBC Affiliate](http://www.wkyc.com/life/school-lunch-study-maureen-kyle/466898210)
-- [_Cleveland Plain Dealer_](http://www.cleveland.com/opinion/index.ssf/2015/05/why_vaccinating_our_child_is_a.html) (with Mariana Carrera)
+- School Lunch Project: [NBC (WKYC)](https://www.wkyc.com/video/life/school-lunch-study-maureen-kyle/95-2699211), 
+  [Radio Times (NPR, WHYY)](https://whyy.org/episodes/school-lunch-teens-sleep/)
+- Red Light Camera Project: [ABC (Cleveland WEWS](https://www.news5cleveland.com/news/local-news/cleveland-metro/cwru-study-red-light-cameras-dont-reduce-accidents-or-make-intersections-safer); 
+  picked up by Cedar Rapids KCRG, Pascagoula WLOX), 
+  [CBS (Cleveland, WOIO](http://www.cleveland19.com/story/38778629/study-shows-red-light-cameras-of-no-safety-value/); picked up by St. Louis WOIO), 
+  [CBS Radio (Austin, KRLD)](https://krld.radio.com/articles/texas-governor-puts-breaks-red-light-cameras), 
+  [NPR (Akron, WKSU)](http://www.wksu.org/post/red-light-cameras-dont-reduce-traffic-accidents-according-case-western-study#stream/0)
 
