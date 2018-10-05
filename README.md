@@ -18,7 +18,7 @@ should update automatically within a couple minutes. (If it doesn't, see [troubl
 
 ### Research
 
-The research page is just a single markdown file: [research.md](https://github.com/mariaines/mariaines.github.io/blob/master/_includes/research.md).
+The research page is just a single markdown file: [research.md](https://github.com/justinpgallagher/justinpgallagher.github.io/blob/master/_includes/research.md).
 
 To update it, go to the file in github, click the pencil icon in the top-right to edit, and type in the editor.
 
@@ -26,9 +26,9 @@ You can preview your changes by toggling the "Preview changes" tab.
 
 ### Teaching
 
-The teaching page is generated from a collection of markdown files defined under [/_teaching_current](https://github.com/mariaines/mariaines.github.io/blob/master/_teaching_current).
+The teaching page is generated from a collection of markdown files defined under [/_teaching_current](https://github.com/justinpgallagher/justinpgallagher.github.io/blob/master/_teaching_current).
 
-These markdown files include a special section at the top that defines some key-value pairs, which are used by the [teaching.html](https://github.com/mariaines/mariaines.github.io/blob/master/teaching.html) page. They look like this:
+These markdown files include a special section at the top that defines some key-value pairs, which are used by the [teaching.html](https://github.com/justinpgallagher/justinpgallagher.github.io/blob/master/teaching.html) page. They look like this:
 ```
 ---
 name: "ECON 326: Econometrics"
@@ -45,6 +45,8 @@ To remove a course, you can just delete the file or move it to a different direc
 
 ### Contact info
 
+The contact section is defined in [contact.md](https://github.com/justinpgallagher/justinpgallagher.github.io/blob/master/_includes/contact.md), 
+similar to the research page.
 
 
 ## Troubleshooting
