@@ -1,4 +1,4 @@
-# mariaines.github.io
+# justinpgallagher.github.io
 
 - [How to update site data](#how-to-update-site-data)
   - [Research](#research)
