@@ -1,11 +1,11 @@
 ### Publications
 
 - {:.pub_li} [Does Hazardous Waste Matter? Evidence from the Housing Market and the Superfund Program](pdfs/superfund_qje.pdf)
-  (with Michael Greenstone). **_Quarterly Journal of Economics_** (2008), 123(3), 951-1003.
+  (with Michael Greenstone), **_Quarterly Journal of Economics_** (2008), 123(3), 951-1003.
   - [Download Stata Code and Datafiles](research_files/greenstone_gallagher_superfund.7z)
 
-- {:.pub_li} [Learning About an Infrequent Event: Evidence from Flood Insurance Take-Up in the US](pdfs/flood_insurance_aeja.pdf).
-  **_American Economic Journal: Applied Economics_**, (2014), 6(3), 206-233.
+- {:.pub_li} [Learning About an Infrequent Event: Evidence from Flood Insurance Take-Up in the US](pdfs/flood_insurance_aeja.pdf),
+  **_American Economic Journal: Applied Economics_** (2014), 6(3), 206-233.
   - [Online Appendix](pdfs/floods_appendix_102513.pdf)
   - [Download Stata Code and Datafiles](research_files/gallagher aeja_2013_replication_files.zip)
   - Media Coverage:
@@ -13,7 +13,7 @@
     [LSE American Politics and Policy Blog](http://blogs.lse.ac.uk/usappblog/2014/08/25/homeowners-forget-about-past-floods-when-assessing-flood-risk-and-are-then-repeatedly-caught-unprepared-by-the-next-flood/)
 
 - {:.pub_li} [Household Finance after a Natural Disaster: The Case of Hurricane Katrina](pdfs/Gallagher Hartley AEJ-Policy.pdf)
-  (with Daniel Hartley).
+  (with Daniel Hartley),
   **_American Economic Journal: Economic Policy_** (2017), 9(3), 199-228.
   - [Online Appendix](pdfs/Gallagher Hartley Appendix.pdf)
   - [Download Stata Code and Datafiles](research_files/Replication files for Gallagher Hartley.zip)
@@ -29,7 +29,7 @@
     [LSE American Politics and Policy Blog](http://blogs.lse.ac.uk/usappblog/2017/09/07/insurance-and-government-assistance-means-that-homeowners-often-have-less-debt-following-a-flood-disaster/)
 
 - {:.pub_li} [School Lunch Quality and Academic Performance](pdfs/school_lunch_20180921.pdf)
-  (with Michael L. Anderson and Elizabeth Ramirez Ritchie), _Forthcoming **Journal of Public Economics**_
+  (with Michael L. Anderson and Elizabeth Ramirez Ritchie), **_Journal of Public Economics**_ (2018), 168, 81-93.
   - [NBER Working Paper #23218](http://www.nber.org/papers/w23218) (earlier version of paper)
   - [Lunch Vendor Nutritional Assessment Report](pdfs/Nutrition-Policy-Institute-July-2016.pdf)
   - Media Coverage:
