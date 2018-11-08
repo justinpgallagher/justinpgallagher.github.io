@@ -7,7 +7,7 @@
 - {:.pub_li} [Learning About an Infrequent Event: Evidence from Flood Insurance Take-Up in the US](pdfs/flood_insurance_aeja.pdf),
   **_American Economic Journal: Applied Economics_** (2014), 6(3), 206-233.
   - [Online Appendix](pdfs/floods_appendix_102513.pdf)
-  - [Download Stata Code and Datafiles](research_files/gallagher aeja_2013_replication_files.zip)
+  - [Download Stata Code and Datafiles](https://montana.app.box.com/file/345202134989)
   - Media Coverage:
     [AEA website](https://www.aeaweb.org/research/will-flood-insurance-takeup-spike.php),
     [LSE American Politics and Policy Blog](http://blogs.lse.ac.uk/usappblog/2014/08/25/homeowners-forget-about-past-floods-when-assessing-flood-risk-and-are-then-repeatedly-caught-unprepared-by-the-next-flood/)
@@ -16,7 +16,7 @@
   (with Daniel Hartley),
   **_American Economic Journal: Economic Policy_** (2017), 9(3), 199-228.
   - [Online Appendix](pdfs/Gallagher Hartley Appendix.pdf)
-  - [Download Stata Code and Datafiles](research_files/Replication files for Gallagher Hartley.zip)
+  - [Download Stata Code and Datafiles](https://montana.app.box.com/file/345192873649)
   - Media Coverage:
     [American Economic Association (AEA) Chart of the Week](https://www.aeaweb.org/research/charts/hurricane-katrina-household-debt-mortgage-disaster),
     [The Conversation](https://theconversation.com/what-victims-of-hurricane-harvey-can-learn-from-katrina-as-rebuilding-begins-83184)
@@ -45,8 +45,8 @@
 - {:.pub_li} [Criminal Deterrence when there are Offsetting Risks: Traffic Cameras, Vehicular Accidents, and Public Safety](pdfs/Gallagher-and-Fisher.pdf)
   (with Paul J. Fisher), _Revisions Requested **American Economic Journal: Economic Policy**_
   - [Online Appendix](pdfs/Appendix-for-Gallagher-and-Fisher.pdf)
-  - [Public Information Act Documentation](research_files/Public-Information-Act-Letters.zip)
-  - [Complete Texas Crash Records Information System (CRIS) vehicle accident data 2003-2009](research_files/2003-2009-texas-cris-accident-data.zip)
+  - [Public Information Act Documentation](https://montana.app.box.com/file/345193346856)
+  - [Complete Texas Crash Records Information System (CRIS) vehicle accident data 2003-2009](https://montana.app.box.com/file/345189771999)
   - Media Coverage:
     [Berkeley Initiative for Transparency in the Social Sciences](http://www.bitss.org/2017/09/11/public-data-that-isnt-or-wasnt-public/), 
     [The Conversation](https://theconversation.com/cameras-can-catch-cars-that-run-red-lights-but-that-doesnt-make-streets-safer-100217) 
