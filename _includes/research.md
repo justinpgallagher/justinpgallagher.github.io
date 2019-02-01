@@ -30,6 +30,7 @@
 
 - {:.pub_li} [School Lunch Quality and Academic Performance](pdfs/school_lunch_20180921.pdf)
   (with Michael L. Anderson and Elizabeth Ramirez Ritchie), **_Journal of Public Economics_** (2018), 168, 81-93.
+  - [Download Stata Code and Datafiles](http://ou.montana.edu/gallagher/index.html)
   - [NBER Working Paper #23218](http://www.nber.org/papers/w23218) (earlier version of paper)
   - [Lunch Vendor Nutritional Assessment Report](pdfs/Nutrition-Policy-Institute-July-2016.pdf)
   - Media Coverage:
