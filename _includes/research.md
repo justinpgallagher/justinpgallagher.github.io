@@ -2,7 +2,7 @@
 
 - {:.pub_li} [Does Hazardous Waste Matter? Evidence from the Housing Market and the Superfund Program](pdfs/superfund_qje.pdf)
   (with Michael Greenstone), **_Quarterly Journal of Economics_** (2008), 123(3), 951-1003.
-  - [Download Stata Code and Datafiles](https://montana.app.box.com/file/345190586896)
+  - [Download Stata Code and Datafiles](http://ou.montana.edu/gallagher/index.html)
 
 - {:.pub_li} [Learning About an Infrequent Event: Evidence from Flood Insurance Take-Up in the US](pdfs/flood_insurance_aeja.pdf),
   **_American Economic Journal: Applied Economics_** (2014), 6(3), 206-233.
