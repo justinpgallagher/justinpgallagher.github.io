@@ -46,6 +46,7 @@
 - {:.pub_li} [Criminal Deterrence when there are Offsetting Risks: Traffic Cameras, Vehicular Accidents, and Public Safety](pdfs/Gallagher-and-Fisher.pdf)
   (with Paul J. Fisher), _Revisions Requested **American Economic Journal: Economic Policy**_
   - [Online Appendix](pdfs/Appendix-for-Gallagher-and-Fisher.pdf)
+  - [Download Stata Code and Datafiles](http://ou.montana.edu/gallagher/index.html)
   - [Public Information Act Documentation](http://ou.montana.edu/gallagher/index.html)
   - [Complete Texas Crash Records Information System (CRIS) vehicle accident data 2003-2009](http://ou.montana.edu/gallagher/index.html)
   - Media Coverage:
