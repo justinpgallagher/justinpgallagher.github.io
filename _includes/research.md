@@ -57,7 +57,8 @@
       [Philly Voice](https://www.phillyvoice.com/red-light-cameras-do-not-make-streets-safer-study/),
       [Scientific American](https://www.scientificamerican.com/article/red-light-cameras-may-not-make-streets-safer/)),
     [Sound of Ideas (NPR, WCPN)](http://www.ideastream.org/programs/sound-of-ideas/cleveland-begins-fines-for-violation-of-trash-and-recycling-rules-red-light-camera-study),
-    [Stateline (Pew Charitable Trusts)](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2018/09/28/taking-a-uturn-on-redlight-speed-cameras).
+    [Stateline (Pew Charitable Trusts)](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2018/09/28/taking-a-uturn-on-redlight-speed-cameras),
+    [U.S. News & World Report](https://www.usnews.com/news/best-states/articles/2019-06-03/gov-abbott-outlaws-red-light-traffic-cameras-in-texas).
 
 - {:.pub_li} Weathering an Unexpected Financial Shock: The Role of Cash Grants on Household Finance and Business Growth following a Natural Disaster (with Daniel Hartley and Shawn Rohlin)
 
