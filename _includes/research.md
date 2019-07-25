@@ -36,7 +36,7 @@
   - Media Coverage:
     [The Atlantic](https://www.theatlantic.com/education/archive/2017/03/do-healthy-lunches-improve-student-test-scores/520272/),
     [The Brookings Institution](https://www.brookings.edu/blog/brown-center-chalkboard/2017/05/03/how-the-quality-of-school-lunch-affects-students-academic-performance/),
-    [Innovation Hub (NPR)](http://blogs.wgbh.org/innovation-hub/2017/6/9/gallagher-lunches/),
+    [Innovation Hub (NPR, WGBH)](http://blogs.wgbh.org/innovation-hub/2017/6/9/gallagher-lunches/),
     [The NBER Digest](http://www.nber.org/digest/jun17/jun17.pdf), and
     [The New York Times](https://www.nytimes.com/2017/06/05/well/feeding-young-minds-the-importance-of-school-lunches.html)
 
