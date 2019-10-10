@@ -70,7 +70,7 @@
 
 - {:.pub_li} Local Banking Institutions and Post-Disaster Recovery (with Daniel Hartley)
 
-- {:.pub_li} Natural Disasters and an Attentive Electorate: Do Voters Actually Separate a Politician's Response to a Disaster from the Impact of the Random Event?
+- {:.pub_li} Retrospective Voting and Natural Disasters that Cause no Damage. A Reanalysis of 'Make It Rain'  
 
 ### Additional Research Media Coverage
 
