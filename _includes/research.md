@@ -61,7 +61,7 @@
     [Stateline (Pew Charitable Trusts)](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2018/09/28/taking-a-uturn-on-redlight-speed-cameras),
     [U.S. News & World Report](https://www.usnews.com/news/best-states/articles/2019-06-03/gov-abbott-outlaws-red-light-traffic-cameras-in-texas).
 
-- {:.pub_li} [Weathering an Unexpected Financial Shock: The Role of Cash Grants on Household Finance and Business Growth following a Natural Disaster](pdfs/tornadoes_20191010.pdf) (with Daniel Hartley and Shawn Rohlin)
+- {:.pub_li} [Weathering an Unexpected Financial Shock: The Role of Cash Grants on Household Finance and Business Survival following a Natural Disaster](pdfs/tornadoes_20191010.pdf) (with Daniel Hartley and Shawn Rohlin)
   - [Online Appendix](pdfs/tornadoes_appendix_20191010.pdf)
 
 ### Research in Progress
