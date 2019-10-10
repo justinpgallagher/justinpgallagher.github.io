@@ -36,6 +36,7 @@
   - Media Coverage:
     [The Atlantic](https://www.theatlantic.com/education/archive/2017/03/do-healthy-lunches-improve-student-test-scores/520272/),
     [The Brookings Institution](https://www.brookings.edu/blog/brown-center-chalkboard/2017/05/03/how-the-quality-of-school-lunch-affects-students-academic-performance/),
+    [Education Digest](https://www.eddigest.com/sub.php?page=54),
     [Innovation Hub (NPR, WGBH)](http://blogs.wgbh.org/innovation-hub/2017/6/9/gallagher-lunches/),
     [The NBER Digest](http://www.nber.org/digest/jun17/jun17.pdf), and
     [The New York Times](https://www.nytimes.com/2017/06/05/well/feeding-young-minds-the-importance-of-school-lunches.html)
@@ -60,8 +61,8 @@
     [Stateline (Pew Charitable Trusts)](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2018/09/28/taking-a-uturn-on-redlight-speed-cameras),
     [U.S. News & World Report](https://www.usnews.com/news/best-states/articles/2019-06-03/gov-abbott-outlaws-red-light-traffic-cameras-in-texas).
 
-- {:.pub_li} Weathering an Unexpected Financial Shock: The Role of Cash Grants on Household Finance and Business Growth following a Natural Disaster (with Daniel Hartley and Shawn Rohlin)
-
+- {:.pub_li} [Weathering an Unexpected Financial Shock: The Role of Cash Grants on Household Finance and Business Growth following a Natural Disaster](pdfs/tornadoes_20191010) (with Daniel Hartley and Shawn Rohlin)
+  - [Online Appendix](pdfs/tornadoes_appendix_20191010)
 
 ### Research in Progress
 
