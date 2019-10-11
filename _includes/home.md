@@ -12,9 +12,7 @@ Work in progress includes a project that examines how infrastructure externaliti
 investment decisions. The work is supported by the National Science Foundation through
 [NSF grant 1638320](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1638320&amp;HistoricalAwards=false).
 
-In [a recent paper](pdfs/school_lunch_20180921.pdf), co-authors and I test whether there is
-a relationship between offering healthier school lunches at public schools and student academic
-achievement. Read media coverage from
+In [a recent paper](pdfs/Gallagher-and-Fisher.pdf), Paul Fisher and I test whether red light traffic cameras reduce vehicular accidents and improve public safety. Read media coverage from
 <a href="https://www.theatlantic.com/education/archive/2017/03/do-healthy-lunches-improve-student-test-scores/520272/" target="_blank"><em>The Atlantic</em></a>,
 <em><a href="https://www.brookings.edu/blog/brown-center-chalkboard/2017/05/03/how-the-quality-of-school-lunch-affects-students-academic-performance/" target="_blank">The Brookings Institution</a></em>,
 <em><a href="http://blogs.wgbh.org/innovation-hub/2017/6/9/gallagher-lunches/" target="_blank">Innovation Hub (NPR)</a></em>,
