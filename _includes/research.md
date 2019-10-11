@@ -41,11 +41,8 @@
     [The NBER Digest](http://www.nber.org/digest/jun17/jun17.pdf), and
     [The New York Times](https://www.nytimes.com/2017/06/05/well/feeding-young-minds-the-importance-of-school-lunches.html)
 
-
-### Working Papers
-
 - {:.pub_li} [Criminal Deterrence when there are Offsetting Risks: Traffic Cameras, Vehicular Accidents, and Public Safety](pdfs/Gallagher-and-Fisher.pdf)
-  (with Paul J. Fisher), _Revisions Requested **American Economic Journal: Economic Policy**_
+  (with Paul J. Fisher), _Accepted **American Economic Journal: Economic Policy**_
   - [Online Appendix](pdfs/Appendix-for-Gallagher-and-Fisher.pdf)
   - [Download Stata Code and Datafiles](http://ou.montana.edu/gallagher/index.html)
   - [Public Information Act Documentation](http://ou.montana.edu/gallagher/index.html)
@@ -60,6 +57,9 @@
     [Sound of Ideas (NPR, WCPN)](http://www.ideastream.org/programs/sound-of-ideas/cleveland-begins-fines-for-violation-of-trash-and-recycling-rules-red-light-camera-study),
     [Stateline (Pew Charitable Trusts)](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2018/09/28/taking-a-uturn-on-redlight-speed-cameras),
     [U.S. News & World Report](https://www.usnews.com/news/best-states/articles/2019-06-03/gov-abbott-outlaws-red-light-traffic-cameras-in-texas).
+
+
+### Working Papers
 
 - {:.pub_li} [Weathering an Unexpected Financial Shock: The Role of Cash Grants on Household Finance and Business Survival following a Natural Disaster](pdfs/tornadoes_20191010.pdf) (with Daniel Hartley and Shawn Rohlin)
   - [Online Appendix](pdfs/tornadoes_appendix_20191010.pdf)
