@@ -16,7 +16,7 @@ In [a recent paper](pdfs/Gallagher-and-Fisher.pdf), Paul Fisher and I test wheth
 <a href="http://www.bitss.org/2017/09/11/public-data-that-isnt-or-wasnt-public/" target="_blank"><em>Berkeley Initiative for Transparency in the Social Sciences</em></a>,
 <em><a href="https://www.scientificamerican.com/article/red-light-cameras-may-not-make-streets-safer/" target="_blank">Scientific American</a></em>,
 <em><a href="http://www.ideastream.org/programs/sound-of-ideas/cleveland-begins-fines-for-violation-of-trash-and-recycling-rules-red-light-camera-study" target="_blank">Sound of Ideas (NPR, WCPN)</a></em>,
-and <em><a href="https://www.usnews.com/news/best-states/articles/2019-06-03/gov-abbott-outlaws-red-light-traffic-cameras-in-texas" target="_blank">U.S. News & World Report<em></em></a>.
+and <em><a href="https://www.usnews.com/news/best-states/articles/2019-06-03/gov-abbott-outlaws-red-light-traffic-cameras-in-texas" target="_blank">U.S. News & World Report</em></a>.
 Here is the abstract:
 
 > _Improving the nutritional content of public school meals is a topic of intense policy interest.
