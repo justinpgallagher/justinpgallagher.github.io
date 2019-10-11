@@ -13,8 +13,8 @@ investment decisions. The work is supported by the National Science Foundation t
 [NSF grant 1638320](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1638320&amp;HistoricalAwards=false).
 
 In [a recent paper](pdfs/Gallagher-and-Fisher.pdf), Paul Fisher and I test whether red light traffic cameras reduce vehicular accidents and improve public safety. Read media coverage from
-<a href="https://www.theatlantic.com/education/archive/2017/03/do-healthy-lunches-improve-student-test-scores/520272/" target="_blank"><em>The Atlantic</em></a>,
-<em><a href="https://www.brookings.edu/blog/brown-center-chalkboard/2017/05/03/how-the-quality-of-school-lunch-affects-students-academic-performance/" target="_blank">The Brookings Institution</a></em>,
+<a href="http://www.bitss.org/2017/09/11/public-data-that-isnt-or-wasnt-public/" target="_blank"><em>Berkeley Initiative for Transparency in the Social Sciences</em></a>,
+<em><a href="https://www.brookings.edu/blog/brown-center-chalkboard/2017/05/03/how-the-quality-of-school-lunch-affects-students-academic-performance/" target="_blank">https://theconversation.com/cameras-can-catch-cars-that-run-red-lights-but-that-doesnt-make-streets-safer-100217</a></em>,
 <em><a href="http://blogs.wgbh.org/innovation-hub/2017/6/9/gallagher-lunches/" target="_blank">Innovation Hub (NPR)</a></em>,
 <em><a href="http://www.nber.org/digest/jun17/jun17.pdf" target="_blank">The NBER Digest</a></em>
 and <a href="https://www.nytimes.com/2017/06/05/well/feeding-young-minds-the-importance-of-school-lunches.html" target="_blank"><em>The New York Times</em></a>.
