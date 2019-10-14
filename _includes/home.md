@@ -12,7 +12,7 @@ Work in progress includes a project that examines how infrastructure externaliti
 investment decisions. The work is supported by the National Science Foundation through
 [NSF grant 1638320](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1638320&amp;HistoricalAwards=false).
 
-In [a recent paper](pdfs/Gallagher-and-Fisher.pdf), Paul Fisher and I test whether red light traffic cameras reduce vehicular accidents and improve public safety. Read media coverage from
+In [a recent paper](pdfs/Gallagher-and-Fisher.pdf), Paul Fisher and I test whether red light traffic cameras reduce vehicular accidents and improve public safety. We conclude that the traffic safety benefit of camera programs is much smaller than the consensus view in the existing transportation and engineering literatures. In the case of Houston program, our preferred estimates suggest that the change in social welfare from implementing the camera program was negative. More generally, our study highlights the challenge of using policy tools to deter crime in situations where potential offenders face multiple, offsetting risks.Read media coverage from
 <a href="http://www.bitss.org/2017/09/11/public-data-that-isnt-or-wasnt-public/" target="_blank"><em>Berkeley Initiative for Transparency in the Social Sciences</em></a>,
 <em><a href="https://www.scientificamerican.com/article/red-light-cameras-may-not-make-streets-safer/" target="_blank">Scientific American</a></em>,
 <em><a href="http://www.ideastream.org/programs/sound-of-ideas/cleveland-begins-fines-for-violation-of-trash-and-recycling-rules-red-light-camera-study" target="_blank">Sound of Ideas (NPR, WCPN)</a></em>,
