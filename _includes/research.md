@@ -54,6 +54,7 @@
       [Houston Chronicle](https://www.houstonchronicle.com/local/gray-matters/article/red-light-cameras-crashes-houston-safety-13158207.php),
       [Philly Voice](https://www.phillyvoice.com/red-light-cameras-do-not-make-streets-safer-study/),
       [Scientific American](https://www.scientificamerican.com/article/red-light-cameras-may-not-make-streets-safer/)),
+    [LSE American Politics and Policy Blog](https://blogs.lse.ac.uk/usappblog/2019/11/20/red-light-cameras-dont-mean-fewer-traffic-accidents-they-just-reshuffle-what-types-occur/),
     [Sound of Ideas (NPR, WCPN)](http://www.ideastream.org/programs/sound-of-ideas/cleveland-begins-fines-for-violation-of-trash-and-recycling-rules-red-light-camera-study),
     [Stateline (Pew Charitable Trusts)](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2018/09/28/taking-a-uturn-on-redlight-speed-cameras),
     [U.S. News & World Report](https://www.usnews.com/news/best-states/articles/2019-06-03/gov-abbott-outlaws-red-light-traffic-cameras-in-texas).
