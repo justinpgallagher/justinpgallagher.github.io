@@ -65,14 +65,15 @@
 - {:.pub_li} [Weathering an Unexpected Financial Shock: The Role of Cash Grants on Household Finance and Business Survival](pdfs/tornadoes_110819.pdf) (with Daniel Hartley and Shawn Rohlin)
   - [Online Appendix](pdfs/tornadoes_appendix_110819.pdf)
 
+- {:.pub_li} [Natural Disasters that Cause No Damage: Retrospective Voting and a Reanalysis of 'Make It Rain'](pdfs/disasters_electorate_20191216.pdf)
+  - [Online Appenidix](pdfs/disasters_electorate_appendix_20191216.pdf
+
 ### Research in Progress
 
 - {:.pub_li} Public Investment and Infrastructure Externalities: Evidence from Municipal Water Provision (with Francisca Richter)
   - Supported by [NSF grant 1638320](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1638320&amp;HistoricalAwards=false)
 
 - {:.pub_li} Local Banking Institutions and Post-Disaster Recovery (with Daniel Hartley)
-
-- {:.pub_li} Retrospective Voting and Natural Disasters that Cause no Damage. A Reanalysis of 'Make It Rain'  
 
 ### Additional Research Media Coverage
 
