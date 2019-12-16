@@ -83,5 +83,6 @@
   picked up by Cedar Rapids KCRG, Pascagoula WLOX), 
   [CBS (Cleveland, WOIO](http://www.cleveland19.com/story/38778629/study-shows-red-light-cameras-of-no-safety-value/); picked up by St. Louis WOIO), 
   [CBS Radio (Austin, KRLD)](https://krld.radio.com/articles/texas-governor-puts-breaks-red-light-cameras), 
-  [NPR (Akron, WKSU)](http://www.wksu.org/post/red-light-cameras-dont-reduce-traffic-accidents-according-case-western-study#stream/0)
+  [NPR (Akron, WKSU)](http://www.wksu.org/post/red-light-cameras-dont-reduce-traffic-accidents-according-case-western-study#stream/0), 
+  [NPR (St. Louis, MO)](https://news.stlpublicradio.org/post/st-louis-considers-bringing-back-red-light-cameras-experts-say-it-might-not-help)
 
