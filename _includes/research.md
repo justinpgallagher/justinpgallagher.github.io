@@ -66,7 +66,7 @@
   - [Online Appendix](pdfs/tornadoes_appendix_110819.pdf)
 
 - {:.pub_li} [Natural Disasters that Cause No Damage: Retrospective Voting and a Reanalysis of 'Make It Rain'](pdfs/disasters_electorate_011620.pdf)
-  - [Online Appenidix](pdfs/disasters_electorate_appendix_011620.pdf)
+  - [Online Appendix](pdfs/disasters_electorate_appendix_011620.pdf)
 
 ### Research in Progress
 
