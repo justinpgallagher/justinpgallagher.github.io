@@ -82,7 +82,10 @@
 - Red Light Camera Project: [ABC (Cleveland WEWS](https://www.news5cleveland.com/news/local-news/cleveland-metro/cwru-study-red-light-cameras-dont-reduce-accidents-or-make-intersections-safer); 
   picked up by Cedar Rapids KCRG, Pascagoula WLOX), 
   [CBS (Cleveland, WOIO](http://www.cleveland19.com/story/38778629/study-shows-red-light-cameras-of-no-safety-value/); picked up by St. Louis WOIO), 
-  [CBS Radio (Austin, KRLD)](https://krld.radio.com/articles/texas-governor-puts-breaks-red-light-cameras), 
+  [CBS Radio (Austin, KRLD)](https://krld.radio.com/articles/texas-governor-puts-breaks-red-light-cameras),
+  [The Capital Forum (Vol. 7 No. 418)], 
+  [Daily Mail (Australia)](https://www.dailymail.co.uk/news/article-7095819/Calls-scrap-red-light-cameras-Australia-amid-claims-CAUSE-crashes.html),
+  [Fox (Baltimore, 45)](https://foxbaltimore.com/news/local/study-red-light-cameras-dont-seem-to-improve-safety),
   [NPR (Akron, WKSU)](http://www.wksu.org/post/red-light-cameras-dont-reduce-traffic-accidents-according-case-western-study#stream/0), 
   [NPR (St. Louis, MO)](https://news.stlpublicradio.org/post/st-louis-considers-bringing-back-red-light-cameras-experts-say-it-might-not-help)
 
