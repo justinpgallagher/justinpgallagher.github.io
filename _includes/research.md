@@ -42,12 +42,13 @@
     [The New York Times](https://www.nytimes.com/2017/06/05/well/feeding-young-minds-the-importance-of-school-lunches.html)
 
 - {:.pub_li} [Criminal Deterrence when there are Offsetting Risks: Traffic Cameras, Vehicular Accidents, and Public Safety](pdfs/Gallagher-and-Fisher.pdf)
-  (with Paul J. Fisher), _Accepted **American Economic Journal: Economic Policy**_
+  (with Paul J. Fisher), **_American Economic Journal: Economic Policy_** (2020), 12(3), 202-37.
   - [Online Appendix](pdfs/Appendix-for-Gallagher-and-Fisher.pdf)
   - [Download Stata Code and Datafiles](http://ou.montana.edu/gallagher/index.html)
   - [Public Information Act Documentation](http://ou.montana.edu/gallagher/index.html)
   - [Complete Texas Crash Records Information System (CRIS) vehicle accident data 2003-2009](http://ou.montana.edu/gallagher/index.html)
   - Media Coverage:
+    [American Economics Association Research Highlights] (https://www.aeaweb.org/research/criminal-deterrence-red-light-cameras-houston),
     [Berkeley Initiative for Transparency in the Social Sciences](http://www.bitss.org/2017/09/11/public-data-that-isnt-or-wasnt-public/), 
     [The Conversation](https://theconversation.com/cameras-can-catch-cars-that-run-red-lights-but-that-doesnt-make-streets-safer-100217) 
     (republished by 
