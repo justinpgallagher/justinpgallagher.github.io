@@ -2,12 +2,12 @@
 
 - {:.pub_li} [Does Hazardous Waste Matter? Evidence from the Housing Market and the Superfund Program](pdfs/superfund_qje.pdf)
   (with Michael Greenstone), **_Quarterly Journal of Economics_** (2008), 123(3), 951-1003.
-  - [Download Stata Code and Datafiles](http://ou.montana.edu/gallagher/index.html)
+  - [Download Stata Code and Datafiles](http://www.montana.edu/gallagher/index.html)
 
 - {:.pub_li} [Learning About an Infrequent Event: Evidence from Flood Insurance Take-Up in the US](pdfs/flood_insurance_aeja.pdf),
   **_American Economic Journal: Applied Economics_** (2014), 6(3), 206-233.
   - [Online Appendix](pdfs/floods_appendix_102513.pdf)
-  - [Download Stata Code and Datafiles](http://ou.montana.edu/gallagher/index.html)
+  - [Download Stata Code and Datafiles](http://www.montana.edu/gallagher/index.html)
   - Media Coverage:
     [AEA website](https://www.aeaweb.org/research/will-flood-insurance-takeup-spike.php),
     [LSE American Politics and Policy Blog](http://blogs.lse.ac.uk/usappblog/2014/08/25/homeowners-forget-about-past-floods-when-assessing-flood-risk-and-are-then-repeatedly-caught-unprepared-by-the-next-flood/)
@@ -16,7 +16,7 @@
   (with Daniel Hartley),
   **_American Economic Journal: Economic Policy_** (2017), 9(3), 199-228.
   - [Online Appendix](pdfs/Gallagher Hartley Appendix.pdf)
-  - [Download Stata Code and Datafiles](http://ou.montana.edu/gallagher/index.html)
+  - [Download Stata Code and Datafiles](http://www.montana.edu/gallagher/index.html)
   - Media Coverage:
     [American Economic Association (AEA) Chart of the Week](https://www.aeaweb.org/research/charts/hurricane-katrina-household-debt-mortgage-disaster),
     [The Conversation](https://theconversation.com/what-victims-of-hurricane-harvey-can-learn-from-katrina-as-rebuilding-begins-83184)
@@ -30,7 +30,7 @@
 
 - {:.pub_li} [School Lunch Quality and Academic Performance](pdfs/school_lunch_20180921.pdf)
   (with Michael L. Anderson and Elizabeth Ramirez Ritchie), **_Journal of Public Economics_** (2018), 168, 81-93.
-  - [Download Stata Code and Datafiles](http://ou.montana.edu/gallagher/index.html)
+  - [Download Stata Code and Datafiles](http://www.montana.edu/gallagher/index.html)
   - [NBER Working Paper #23218](http://www.nber.org/papers/w23218) (earlier version of paper)
   - [Lunch Vendor Nutritional Assessment Report](pdfs/Nutrition-Policy-Institute-July-2016.pdf)
   - Media Coverage:
@@ -44,7 +44,7 @@
 - {:.pub_li} [Criminal Deterrence when there are Offsetting Risks: Traffic Cameras, Vehicular Accidents, and Public Safety](pdfs/Gallagher-and-Fisher.pdf)
   (with Paul J. Fisher), **_American Economic Journal: Economic Policy_** (2020), 12(3), 202-37.
   - [Online Appendix](pdfs/Appendix-for-Gallagher-and-Fisher.pdf)
-  - [Download Stata Code and Datafiles](http://ou.montana.edu/gallagher/index.html)
+  - [Download Stata Code and Datafiles](http://www.montana.edu/gallagher/index.html)
   - [Public Information Act Documentation](http://ou.montana.edu/gallagher/index.html)
   - [Complete Texas Crash Records Information System (CRIS) vehicle accident data 2003-2009](http://ou.montana.edu/gallagher/index.html)
   - Media Coverage:
