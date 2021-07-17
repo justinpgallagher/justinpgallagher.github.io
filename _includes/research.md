@@ -66,7 +66,7 @@
 - {:.pub_li} [Weathering an Unexpected Financial Shock: The Role of Cash Grants on Household Finance and Business Survival](pdfs/Tornadoes_061321.pdf) (with Daniel Hartley and Shawn Rohlin)
   - [Online Appendix](pdfs/Tornadoes_appendix_061321.pdf)
 
-- {:.pub_li} [Natural Disasters that Cause No Damage: Retrospective Voting and a Reanalysis of 'Make It Rain'](pdfs/Attentive_Electorate_website071721.pdf)
+- {:.pub_li} [Natural Disasters that Cause No Damage: Accounting for the Selective Reporting of Weather Damage](pdfs/Attentive_Electorate_website071721.pdf)
 
 ### Research in Progress
 
