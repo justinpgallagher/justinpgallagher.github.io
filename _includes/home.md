@@ -14,5 +14,5 @@ In [a recent paper](pdfs/Gallagher-and-Fisher.pdf), Paul Fisher and I test wheth
 <em><a href="http://www.ideastream.org/programs/sound-of-ideas/cleveland-begins-fines-for-violation-of-trash-and-recycling-rules-red-light-camera-study" target="_blank">Sound of Ideas (NPR, WCPN)</a></em>,
 and <em><a href="https://www.usnews.com/news/best-states/articles/2019-06-03/gov-abbott-outlaws-red-light-traffic-cameras-in-texas" target="_blank">U.S. News & World Report</a></em>.
 
-Work in progress includes a project titled **Retrospective Voting and Natural Disasters that Cause No Damage: Accounting for the Selective Reporting of Weather Damage**. We 
+Work in progress includes a project titled **Retrospective Voting and Natural Disasters that Cause No Damage: Accounting for the Selective Reporting of Weather Damage**[pdfs/Attentive_Electorate_081121.pdf]. We 
 show how a popular weather damage database suffers from a nonrandom missing data problem, and provide an instrument-based imputation procedure to account for the missing data. We then reevaluate a seminal study on retrospective voting following a natural disaster and show that the original findings are mostly reversed once accounting for the missing data.
