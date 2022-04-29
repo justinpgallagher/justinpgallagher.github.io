@@ -65,18 +65,16 @@
 
 ### Working Papers
 
-- {:.pub_li} [Weathering an Unexpected Financial Shock: The Role of Federal Disaster Assistance on Household Finance and Business Survival](pdfs/Tornadoes_122121.pdf) (with Daniel Hartley and Shawn Rohlin), **Revisions Requested by _Journal of the Association of Environmental and Resource Economists_**
-  - [Online Appendix](pdfs/Tornadoes_Appendix_122121.pdf)
+- {:.pub_li} Local Banking Institutions and Post-Disaster Recovery (with Daniel Hartley)
 
 - {:.pub_li} [Retrospective Voting and Natural Disasters that Cause No Damage: Accounting for the Selective Reporting of Weather Damage](pdfs/Attentive_Electorate_081121.pdf)
   - [Online Appendix](pdfs/Attentive_Electorate_Appendix_081121.pdf)
 
 ### Research in Progress
 
-- {:.pub_li} Public Investment and Infrastructure Externalities: Evidence from Municipal Water Provision (with Francisca Richter)
-  - Supported by [NSF grant 1638320](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1638320&amp;HistoricalAwards=false)
+- {:.pub_li} Improved Methods to Address Mean Reversion in Transportation Policy Studies (with Paul Fisher)
 
-- {:.pub_li} Local Banking Institutions and Post-Disaster Recovery (with Daniel Hartley)
+- {:.pub_li} Neighborhood-level Economic Redevelopment following a Natural Disaster (with Daniel Hartley)
 
 ### Additional Research Media Coverage
 
