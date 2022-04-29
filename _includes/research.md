@@ -1,6 +1,6 @@
 ### Publications
 
-- {:.pub_li} [Weathering an Unexpected Financial Shock: The Role of Federal Disaster Assistance on Household Finance and Business Survival](pdfs/Tornadoes_JAERE_final.pdf) (with Daniel Hartley and Shawn Rohlin), **Accepted by _Journal of the Association of Environmental and Resource Economists_**
+- {:.pub_li} [Weathering an Unexpected Financial Shock: The Role of Federal Disaster Assistance on Household Finance and Business Survival](pdfs/Tornadoes_JAERE_final.pdf) (with Daniel Hartley and Shawn Rohlin), Accepted by **_Journal of the Association of Environmental and Resource Economists_**
   - [Online Appendix](pdfs/Tornadoes_JAERE_appendix_final.pdf)
 
 - {:.pub_li} [Criminal Deterrence when there are Offsetting Risks: Traffic Cameras, Vehicular Accidents, and Public Safety](pdfs/Gallagher-and-Fisher.pdf)
