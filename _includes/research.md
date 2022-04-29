@@ -11,7 +11,7 @@
   - [Complete Texas Crash Records Information System (CRIS) vehicle accident data 2003-2009](https://www.montana.edu/gallagher/index.html)
   - Media Coverage:
     [American Economics Association Research Highlights](https://www.aeaweb.org/research/criminal-deterrence-red-light-cameras-houston),
-    [Berkeley Initiative for Transparency in the Social Sciences](http://www.bitss.org/2017/09/11/public-data-that-isnt-or-wasnt-public/), 
+    [Berkeley Initiative for Transparency in the Social Sciences](http://www.bitss.org/public-data-that-isnt-or-wasnt-public/), 
     [The Conversation](https://theconversation.com/cameras-can-catch-cars-that-run-red-lights-but-that-doesnt-make-streets-safer-100217) 
     (republished by 
       [Houston Chronicle](https://www.houstonchronicle.com/local/gray-matters/article/red-light-cameras-crashes-houston-safety-13158207.php),
