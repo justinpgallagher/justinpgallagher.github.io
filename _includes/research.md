@@ -1,5 +1,8 @@
 ### Publications
 
+- {:.pub_li} [Weathering an Unexpected Financial Shock: The Role of Federal Disaster Assistance on Household Finance and Business Survival](pdfs/Tornadoes_JAERE_final.pdf) (with Daniel Hartley and Shawn Rohlin), **Accepted by _Journal of the Association of Environmental and Resource Economists_**
+  - [Online Appendix](pdfs/Tornadoes_JAERE_appendix_final.pdf)
+
 - {:.pub_li} [Criminal Deterrence when there are Offsetting Risks: Traffic Cameras, Vehicular Accidents, and Public Safety](pdfs/Gallagher-and-Fisher.pdf)
   (with Paul J. Fisher), **_American Economic Journal: Economic Policy_** (2020), 12(3), 202-37.
   - [Online Appendix](pdfs/Appendix-for-Gallagher-and-Fisher.pdf)
@@ -19,7 +22,7 @@
     [Stateline (Pew Charitable Trusts)](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2018/09/28/taking-a-uturn-on-redlight-speed-cameras),
     [U.S. News & World Report](https://www.usnews.com/news/best-states/articles/2019-06-03/gov-abbott-outlaws-red-light-traffic-cameras-in-texas).
 
-- {:.pub_li} [School Lunch Quality and Academic Performance](pdfs/school_lunch_20180921.pdf)
+- {:.pub_li} [School Meal Quality and Academic Performance](pdfs/school_lunch_20180921.pdf)
   (with Michael L. Anderson and Elizabeth Ramirez Ritchie), **_Journal of Public Economics_** (2018), 168, 81-93.
   - [Download Stata Code and Datafiles](https://www.montana.edu/gallagher/index.html)
   - [NBER Working Paper #23218](https://www.nber.org/papers/w23218) (earlier version of paper)
