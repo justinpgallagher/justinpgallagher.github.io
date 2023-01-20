@@ -74,7 +74,6 @@
 ### Research in Progress
 
 - {:.pub_li} Improved Methods to Address Mean Reversion in Transportation Policy Studies (with Paul Fisher)
-
 - {:.pub_li} Neighborhood-level Economic Redevelopment following a Natural Disaster (with Daniel Hartley)
 
 ### Additional Research Media Coverage
