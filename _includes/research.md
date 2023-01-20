@@ -66,6 +66,7 @@
 ### Working Papers
 
 - {:.pub_li} Local Banking Institutions and Post-Disaster Recovery (with Daniel Hartley)
+  - [Presentation Slides (NBER 2022)](pdfs/Local_Banking_NBERslides.pdf)
 
 - {:.pub_li} [Retrospective Voting and Natural Disasters that Cause No Damage: Accounting for the Selective Reporting of Weather Damage](pdfs/Attentive_Electorate_012023.pdf)
   - [Online Appendix](pdfs/Attentive_Electorate_Appendix_012023.pdf)
