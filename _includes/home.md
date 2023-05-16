@@ -1,6 +1,6 @@
 ## Justin Gallagher
 
-### Assistant Professor, [Department of Agricultural Economics & Economics](http://www.montana.edu/econ/)
+### Associate Professor, [Department of Agricultural Economics & Economics](http://www.montana.edu/econ/)
 
 #### [Montana State University](http://www.montana.edu/)
 
