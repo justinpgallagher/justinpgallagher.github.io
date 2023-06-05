@@ -74,7 +74,8 @@
 ### Research in Progress
 
 - {:.pub_li} Improved Methods to Address Mean Reversion in Transportation Policy Studies (with Paul Fisher)
-- {:.pub_li} Neighborhood-level Economic Redevelopment following a Natural Disaster (with Daniel Hartley)
+- {:.pub_li} Urban Growth Boundaries, Housing Density, and Housing Prices (with Daniel Bigelow)
+- {:.pub_li} Bank Branching, Low-Income Lending, and the Household Finance of Economically Vulnerable Populations following a Natural Disaster (with Garret Christensen)
 
 ### Additional Research Media Coverage
 
