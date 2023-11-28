@@ -72,6 +72,7 @@
   - [Presentation Slides (NBER 2022)](pdfs/Local_Banking_NBERslides.pdf)
 
 - {:.pub_li} [Retrospective Voting and Natural Disasters that Cause No Damage: Accounting for the Selective Reporting of Weather Damage](pdfs/Attentive_Electorate_012023.pdf)
+  - [Presentation Slides (Vanderbilt University 2023)](pdfs/Vanderbilt_2023.pdf)
   - [Online Appendix](pdfs/Attentive_Electorate_Appendix_012023.pdf)
 
 ### Research in Progress
