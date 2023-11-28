@@ -78,7 +78,7 @@
 ### Research in Progress
 
 - {:.pub_li} Urban Growth Boundaries, Housing Density, and Housing Prices (with Daniel Bigelow)
-- {:.pub_li} Bank Branching, Low-Income Lending, and the Household Finance of Economically Vulnerable Populations following a Natural Disaster (with Garret Christensen)
+- {:.pub_li} Bank Branching, Low-Income Lending, and the Household Finance of Economically Vulnerable Populations (with Garret Christensen)
 
 ### Additional Research Media Coverage
 
