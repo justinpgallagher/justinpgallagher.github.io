@@ -65,6 +65,9 @@
 
 ### Working Papers
 
+- {:.pub_li} [Traffic Safety Program Evaluation: The Empirical Bayes Model and Mean Reversion Bias](pdfs/Empirical_Bayes_112323.pdf) (with Paul Fisher)
+  - [Presentation Slides (Transportation Research Board 2024)](pdfs/TRB_jan2024.pdf)
+
 - {:.pub_li} Local Banking Institutions and Post-Disaster Recovery (with Daniel Hartley)
   - [Presentation Slides (NBER 2022)](pdfs/Local_Banking_NBERslides.pdf)
 
