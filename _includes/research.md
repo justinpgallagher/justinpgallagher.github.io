@@ -68,7 +68,7 @@
 - {:.pub_li} [Traffic Safety Program Evaluation: The Empirical Bayes Model and Mean Reversion Bias](pdfs/Empirical_Bayes_112323.pdf) (with Paul Fisher)
   - [Presentation Slides (Transportation Research Board 2024)](pdfs/TRB_jan2024.pdf)
 
-- {:.pub_li} Local Banking Institutions and Post-Disaster Recovery (with Daniel Hartley)
+- {:.pub_li} [Local Banking Institutions and Post-Disaster Recovery](https://www.chicagofed.org/publications/working-papers/2024/2024-17) (with Daniel Hartley)
   - Presentations: [Climate Risk Management Conference (2023)](pdfs/CRMC23.pdf), Federal Reserve (2023), NBER (2022), AEA (2020), AERE (2019)
 
 - {:.pub_li} [Retrospective Voting and Natural Disasters that Cause No Damage: Accounting for the Selective Reporting of Weather Damage](pdfs/Attentive_Electorate_012023.pdf)
